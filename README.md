@@ -11,10 +11,12 @@ In `./darnn-based`, We reproduce the work in this paper on the Nasdaq 100 datase
 
 ### Results
 
-|     Models     | RMSE(Nasdaq100) |
-| :------------: | :-------------: |
-|     DARNN      |      2.68       |
-| DARNN-improved |      2.49       |
+Limited by data acquisition, we only tested the performance of two models on the Nasdaq100 dataset, and the results are shown in the following table:
+
+|     Models     | RMSE (Nasdaq100) |
+| :------------: | :--------------: |
+|     DARNN      |       2.68       |
+| DARNN-improved |       2.49       |
 
 ## Content
 
