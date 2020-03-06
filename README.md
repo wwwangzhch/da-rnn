@@ -16,6 +16,6 @@ In `./darnn-based`, We reproduce the work in this paper on the Nasdaq 100 datase
 |     DARNN      |      2.68       |
 | DARNN-improved |      2.49       |
 
-## Contents
+## Content
 
 These two file folders both contain all the code and data needed to run the model. You can use any one of them to start the trainning period.
