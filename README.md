@@ -2,7 +2,7 @@
 
 This repository holds the reproduction codes for [A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction-IJCAI2017](https://arxiv.org/pdf/1704.02971.pdf). 
 
-In `./darnn-based`, We reproduce the work in this paper on the Nasdaq 100 dataset. Besides, we offer a modified version in `./darnn-improved`to solve the instability of the original model during training period. The requirements are Python 3.6 and Pytorch 1.0 (or higher).
+In `./darnn-based`, we reproduce the work in this paper on the Nasdaq 100 dataset. Besides, we offer a modified version in `./darnn-improved` to solve the instability of the original model during training period. The requirements are Python 3.6 and Pytorch 1.0 (or higher).
 
 ## Models
 
